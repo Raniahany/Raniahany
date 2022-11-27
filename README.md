@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Raniahany
+- 👀 I’m interested in UI/UX design , User reserach ...
+- 🌱 I’m currently learning UI/UX design , HTML , CSS ...
+- 📫 How to reach me by my Email Raniahany_23@outlook.com ...
+
+<!---
+Raniahany/Raniahany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
